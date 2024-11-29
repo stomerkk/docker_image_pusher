@@ -8,4 +8,5 @@ dreamacro/clash
 haishanh/yacd
 saysaucee/nastools
 1panel/openresty
+allanpk716/chinesesubfinder
 
