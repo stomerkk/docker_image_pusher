@@ -7,3 +7,5 @@ xhofe/alist:latest
 dreamacro/clash
 haishanh/yacd
 saysaucee/nastools
+1panel/openresty
+
