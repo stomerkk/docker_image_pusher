@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 dreamacro/clash
 haishanh/yacd
-nastool/nas-tools
+syly948/nastools
