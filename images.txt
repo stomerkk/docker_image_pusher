@@ -10,4 +10,4 @@ saysaucee/nastools
 1panel/openresty
 wwfnle/chinesesubfinder
 jeessy/ddns-go
-
+homeassistant/home-assistant
