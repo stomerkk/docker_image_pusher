@@ -9,4 +9,5 @@ haishanh/yacd
 saysaucee/nastools
 1panel/openresty
 wwfnle/chinesesubfinder
+jeessy/ddns-go
 
