@@ -7,7 +7,7 @@ xhofe/alist:latest
 firewalla/clash
 haishanh/yacd
 saysaucee/nastools
-1panel/openresty
+docker pull moelin/1panel
 wwfnle/chinesesubfinder
 jeessy/ddns-go
 homeassistant/home-assistant
