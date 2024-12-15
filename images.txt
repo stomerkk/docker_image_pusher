@@ -11,3 +11,4 @@ moelin/1panel
 wwfnle/chinesesubfinder
 jeessy/ddns-go
 homeassistant/home-assistant
+lovechen/embyserver
