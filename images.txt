@@ -12,3 +12,4 @@ wwfnle/chinesesubfinder
 jeessy/ddns-go
 homeassistant/home-assistant
 lovechen/embyserver
+youshandefeiyang/allinone
