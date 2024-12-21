@@ -13,3 +13,4 @@ jeessy/ddns-go
 homeassistant/home-assistant
 lovechen/embyserver
 youshandefeiyang/allinone
+dreamacro/clash
